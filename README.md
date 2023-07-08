@@ -13,6 +13,7 @@ The script will output the comparison results for each of the following types:
 - Pip
 - Size
 - History
+- 
 The comparison results will be stored in the outputs folder in separate files for each type.
 
 ## Usage
